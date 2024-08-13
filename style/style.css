@@ -18,3 +18,14 @@ a:hover {
 #footer {
     background-color: #344966;
 }
+
+#gernal-about {
+    background-color: #909D81;
+    color: #F0F4EF;
+}
+
+#acro {
+    color: #ffc107;
+    font-style: normal;
+    font-weight: bold;
+}
